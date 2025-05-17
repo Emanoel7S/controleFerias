@@ -23,7 +23,8 @@ class User extends Authenticatable
         'password',
         'cpf',
         'login_secullum',
-        'password_secullum',
+        'password_secullum', 
+        'cargo',
     ];
 
     /**
