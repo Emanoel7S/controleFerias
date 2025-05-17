@@ -3,4 +3,5 @@
     <a href="#">📅 Solicitar Férias</a>
     <a href="#">📂 Minhas Solicitações</a>
     <a href="#">⚙️ Configurações</a>
+    <a href="#">⚙️ Perfil</a>
 </div>
