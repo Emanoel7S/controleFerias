@@ -21,6 +21,9 @@ class User extends Authenticatable
         'name',
         'email',
         'password',
+        'cpf',
+        'login_secullum',
+        'password_secullum',
     ];
 
     /**

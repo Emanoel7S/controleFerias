@@ -3,5 +3,5 @@
 use App\Http\Controllers\DashboardController;
 use Illuminate\Support\Facades\Route;
 
-Route::get('/', [DashboardController::class, 'index'])->name('welcome');;
+Route::get('/', [DashboardController::class, 'index'])->name('welcome');
 
